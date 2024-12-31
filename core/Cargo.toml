@@ -1,0 +1,10 @@
+[package]
+name = "core"
+version = "0.1.0"
+edition = "2021"
+
+
+
+[dependencies]
+sysinfo = "0.28"
+rand = "0.8"
